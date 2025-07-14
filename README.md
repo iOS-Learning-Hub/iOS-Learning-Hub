@@ -8,7 +8,7 @@ This is a comprehensive, self-paced iOS development learning path. Whether you'r
 ## 🗺️ Quick Navigation
 
 ### 📚 Theory & Fundamentals
-- [Swift Language Basics](https://github.com/YOUR-ORG/swift-fundamentals-theory)
+- [Swift Language Basics](https://github.com/iOS-Learning-Hub/iOS-Learning-Hub/tree/main/Swift%20Fundamentals/01-basics)
 - [iOS Development Concepts](https://github.com/YOUR-ORG/ios-development-theory)
 - [UIKit Framework Guide](https://github.com/YOUR-ORG/uikit-comprehensive-guide)
 - [SwiftUI Modern Development](https://github.com/YOUR-ORG/swiftui-complete-reference)
