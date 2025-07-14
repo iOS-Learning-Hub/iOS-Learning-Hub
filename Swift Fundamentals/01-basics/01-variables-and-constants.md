@@ -212,3 +212,8 @@ Unlike many other languages, Swift doesn't require you to write a semicolon (;) 
 let cat = "🐱"; print(cat)
 // Prints "🐱"
 ```
+---
+
+### 📚 Additional Resources
+- [The Swift Programming Language - Constants and Variable](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Constants-and-Variables)
+  
