@@ -9,9 +9,9 @@ This focused learning path covers the essential foundations of SwiftUI developme
 
 #### Foundation Level 🏗️
 
-1. [SwiftUI Fundamentals](/SwiftUI/Foundations%20&%20Modern%20Concepts/SwiftUI%20Fundamentals.md) - Views, modifiers, and the SwiftUI mental model.
-2. [Views & View Hierarchy](/SwiftUI/Foundations%20&%20Modern%20Concepts/Views%20&%20View%20Hierarchy.md) - How SwiftUI's view system works.
-3. [State Management Basics](/SwiftUI/Foundations%20&%20Modern%20Concepts/State%20Management%20Basics.md) - @State, @Binding, and local state.
+1. [SwiftUI Fundamentals](/SwiftUI%20Framework%20Guide/Foundations%20&%20Modern%20Concepts/SwiftUI%20Fundamentals.md) - Views, modifiers, and the SwiftUI mental model.
+2. [Views & View Hierarchy](/SwiftUI%20Framework%20Guide/Foundations%20&%20Modern%20Concepts/Views%20&%20View%20Hierarchy.md) - How SwiftUI's view system works.
+3. [State Management Basics](/SwiftUI%20Framework%20Guide/Foundations%20&%20Modern%20Concepts/State%20Management%20Basics.md) - @State, @Binding, and local state.
 
 
 #### Intermediate Level 📊
