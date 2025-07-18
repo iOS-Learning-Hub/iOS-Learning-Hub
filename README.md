@@ -8,10 +8,10 @@ This is a comprehensive, self-paced iOS development learning path. Whether you'r
 ## 🗺️ Quick Navigation
 
 ### 📚 Theory & Fundamentals
-- [Swift Language Basics](https://github.com/iOS-Learning-Hub/iOS-Learning-Hub/tree/main/Swift%20Fundamentals/01-basics)
+- [Swift Language Basics](/Swift%20Fundamentals/README.md)
 - [iOS Development Concepts]()
 - [UIKit Framework Guide](/UIKit%20Framework%20Guide/README.md)
-- [SwiftUI Framework Guide](/SwiftUI/README.md) 
+- [SwiftUI Framework Guide](/SwiftUI%20Framework%20Guide/README.md) 
 
 ### 🎯 Hands-On Projects
 
