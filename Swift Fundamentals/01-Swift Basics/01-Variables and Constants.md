@@ -1,6 +1,6 @@
 # Variables and Constants
 
-### 🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of this lesson you will:
 
@@ -13,7 +13,7 @@ By the end of this lesson you will:
 
 ---
 
-### 📝 What are Variables and Constants?
+## 📝 What are Variables and Constants?
 In Swift, we store data in two types of containers:
 - **Variables (`var`):** Values that can change
 - **Constants (`let`):** Values that cannot change once set
@@ -24,7 +24,7 @@ Think of them like containers:
 
 ---
 
-### 🔧 Creating Variables
+## 🔧 Creating Variables
 
 ```
 swift
@@ -42,7 +42,7 @@ isGameOver = true
 
 ```
 
-#### **Key Points:**
+### **Key Points:**
 - Use `var` keyword
 - Can be changed after creation
 
@@ -70,7 +70,7 @@ let pi = 3.14159
 
 ---
 
-### 🎯 When to Use Each
+## 🎯 When to Use Each
 
 **Use `let`(Constants) When:**
 - Values won't change
@@ -95,7 +95,7 @@ var userScore = 0               // Changes during gameplay
 ```
 
 ---
-### ⚠️ Type Annotations
+## ⚠️ Type Annotations
 In Swift, you can provide a *type annotation* when you declare a constant or variable, to be clear about the kind of values the constant or variable can store.
 
 `var welcomeMessage: String`
@@ -105,7 +105,7 @@ In Swift, you can provide a *type annotation* when you declare a constant or var
 
 ---
 
-### 🏷️ Naming Conventions
+## 🏷️ Naming Conventions
 
 Constant and variable names can contain almost any character, including Unicode characters:
 
@@ -146,7 +146,7 @@ var x = 3                       // Not descriptive
 
 --- 
 
-### 🎨 Type Inference vs Type Annotation
+## 🎨 Type Inference vs Type Annotation
 
 Swift can almost always figure out types (type inference) 
 
@@ -180,7 +180,7 @@ let userID: String = "12345"    // This looks like a number but should be String
 ```
 --- 
 
-### ; Semicolons
+## ; Semicolons
 Unlike many other languages, Swift doesn't require you to write a semicolon (;) after each statement in your code, although you can do so if you wish. However, semicolons *are* required if you want to write multiple separate statements on a single line:
 
 ```
@@ -189,6 +189,22 @@ let cat = "🐱"; print(cat)
 ```
 ---
 
-### 📚 Additional Resources
+## 🛫 Next Steps
+Now that you understand the basics of the Swift programming language and some of their fundamentals. You are ready for the next lesson.
+
+#### What You've Learned
+- ✅ **Constants and Variables**: How to create and use them
+- ✅ **Type Annotations**: Specify the type
+- ✅ **Naming Conventions**: Best practices for naming variables and constants
+- ✅ **Comments**: Provide extra information in your code or set reminders for specific things
+- ✅ **Semicolon**: Sometimes necessary for separating multiple statements, but not necessary for each of code
+
+#### Where to Go Next
+
+**Continue to** [Swift Basics - Data Types](/Swift%20Fundamentals/01-Swift%20Basics/02-Data%20Types.md)
+
+--- 
+
+## 📚 Resources
 - [The Swift Programming Language - Constants and Variable](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Constants-and-Variables)
   

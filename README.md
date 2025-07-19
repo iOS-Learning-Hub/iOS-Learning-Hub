@@ -8,39 +8,37 @@ This is a comprehensive, self-paced iOS development learning path. Whether you'r
 ## 🗺️ Quick Navigation
 
 ### 📚 Theory & Fundamentals
-- [Swift Language Basics](/Swift%20Fundamentals/README.md)
+- [Swift Fundamentals](/Swift%20Fundamentals/README.md)
+- [SwiftUI Framework](/SwiftUI%20Framework%20Guide/README.md)
+- [UIKit Framework](/UIKit%20Framework%20Guide/README.md)
+- [Xcode Guide & Shortcuts]() 
 - [iOS Development Concepts]()
-- [UIKit Framework Guide](/UIKit%20Framework%20Guide/README.md)
-- [SwiftUI Framework Guide](/SwiftUI%20Framework%20Guide/README.md) 
+
+
 
 ### 🎯 Hands-On Projects
 
 #### ⚡ Micro Projects (1-5 hours)
-- [Temperature Converter](https://github.com/YOUR-ORG/project-micro-temperature-converter)
-- [Tip Calculator](https://github.com/YOUR-ORG/project-micro-tip-calculator-uikit)
-- [Color Picker](https://github.com/YOUR-ORG/project-micro-color-picker-uikit)
+
 
 #### 🎨 Mini Projects (8-25 hours)
-- [Weather App](https://github.com/YOUR-ORG/project-mini-weather-app-uikit)
-- [Task Manager](https://github.com/YOUR-ORG/project-mini-task-manager-swiftui)
-- [Recipe Book](https://github.com/YOUR-ORG/project-mini-recipe-book-uikit)
+
 
 #### 🚀 Full Projects (40+ hours)
-- [Social Feed App](https://github.com/YOUR-ORG/project-full-social-feed-swiftui)
-- [E-commerce Shopping Cart](https://github.com/YOUR-ORG/project-full-shopping-cart-swiftui)
+
 
 ## 🛤️ Learning Paths
 
 ### 🌟 For Complete Beginners
 1. Start with [Swift Fundamentals](https://github.com/YOUR-ORG/swift-fundamentals-theory)
-2. Try your first [Micro Project: Temperature Converter](https://github.com/YOUR-ORG/project-micro-temperature-converter)
-3. Learn [iOS App Basics](https://github.com/YOUR-ORG/ios-development-theory)
-4. Build [Tip Calculator](https://github.com/YOUR-ORG/project-micro-tip-calculator-uikit)
+2. Try your first micro project
+3. Learn [iOS App Basics]
+4. Build 
 
 ### 🚀 For Quick Learners
-1. Review [Swift Basics](https://github.com/YOUR-ORG/swift-fundamentals-theory) (if needed)
-2. Jump to [Weather App](https://github.com/YOUR-ORG/project-mini-weather-app-uikit)
-3. Explore [SwiftUI Basics](https://github.com/YOUR-ORG/swiftui-complete-reference)
+1. Review [Swift Basics](/Swift%20Fundamentals/README.md) (if needed)
+2. Jump to 
+3. Explore [SwiftUI Basics](/SwiftUI%20Framework%20Guide/README.md)
 4. Build [Task Manager](https://github.com/YOUR-ORG/project-mini-task-manager-swiftui)
 
 ### 💼 For Job Seekers

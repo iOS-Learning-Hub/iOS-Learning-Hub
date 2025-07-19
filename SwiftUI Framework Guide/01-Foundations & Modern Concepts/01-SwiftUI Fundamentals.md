@@ -234,7 +234,7 @@ struct ImageExample: View {
 
 ---
 
-## Next Steps
+## 🛫 Next Steps
 
 Now that you understand the fundamentals of SwiftUI, you're ready to dive deeper into how the view system works and how to manage state effectively.
 
@@ -264,10 +264,10 @@ Now that you understand the fundamentals of SwiftUI, you're ready to dive deeper
 ## 📚 Resources
 
 - [Imperative UI programming vs Declarative UI programming](https://medium.com/@saiful103a/imperative-ui-programming-vs-declarative-ui-programming-c4000d9fe835)
-- [Apple Documentation - SwiftUI App Protocol](https://developer.apple.com/documentation/swiftui/app)
-- [Apple Documentation - View Protocol](https://developer.apple.com/documentation/swiftui/view)
+- [App | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/app)
+- [View | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/view)
 - [Why does SwiftUI use "some View" for its View type?](https://www.hackingwithswift.com/books/ios-swiftui/why-does-swiftui-use-some-view-for-its-view-type)
-- [Apple Documentation - SwiftUI Button](https://developer.apple.com/documentation/swiftui/button)
-- [Apple Documentation - SwiftUI Text](https://developer.apple.com/documentation/swiftui/text)
-- [Apple Documentation - SwiftUI Image](https://developer.apple.com/documentation/swiftui/image)
+- [Button | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/button)
+- [Text | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/text)
+- [Image | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/image)
 - [Buttons and Images](https://www.hackingwithswift.com/books/ios-swiftui/buttons-and-images)

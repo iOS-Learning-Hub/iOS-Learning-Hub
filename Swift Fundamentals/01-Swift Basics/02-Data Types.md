@@ -1,6 +1,6 @@
 # Data Types in Swift
 
-### 🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of this lesson, you will:
 - Understand Swift's fundamental data types
@@ -10,7 +10,7 @@ By the end of this lesson, you will:
 
 ---
 
-### 📖 What are Data Types?
+## 📖 What are Data Types?
 
 Swift provides many fundamental data types, including:
 
@@ -22,11 +22,11 @@ Swift provides many fundamental data types, including:
 
 Swift is a **type-safe** language, meaning it prevents you from mixing incompatible types accidentally.
 
---- `
+--- 
 
-### 🔢 Number Types
+## 🔢 Number Types
 
-#### Integers (Int)
+### Integers (Int)
 ```
 let age = 25
 let temperature = -5
@@ -38,9 +38,9 @@ let worldPopulation = 8_000_000_000  // Underscores for readability
 let distanceToSun = 93_000_000       // 93 million miles
 ```
 
-#### Floating-Point Numbers
+### Floating-Point Numbers
 
-##### Double(Default for decimals)
+#### Double(Default for decimals)
 
 ```
 let pi = 3.14159
@@ -50,7 +50,7 @@ let percentage = 85.5
 
 ```
 
-##### Float (Less precision, smaller memory)
+#### Float (Less precision, smaller memory)
 
 ```
 let smallDecimal: Float = 2.5
@@ -60,9 +60,9 @@ let ratio: Float = 0.333
 
 ---
 
-### 📝 Text Types
+## 📝 Text Types
 
-#### String
+### String
 For text of any length
 ```
 let firstName = "Emma"
@@ -79,7 +79,7 @@ let anotherEmpty = String()
 ```
 
 
-#### Character
+### Character
 For single characters:
 ```
 let firstLetter: Character = "A"
@@ -93,7 +93,7 @@ let symbol: Character = "@"
 
 ---
 
-### ✅ Boolean Type
+## ✅ Boolean Type
 For true/false values:
 ```
 let isLoggedIn = true
@@ -107,7 +107,7 @@ let canPlay = isLoggedIn && hasInternet && !isGameOver
 
 ---
 
-### 🔄 Type Conversion
+## 🔄 Type Conversion
 Swift requires explicit type conversion - it won't guess what you want:
 
 **Number conversions**
@@ -154,7 +154,20 @@ let bmiText = "Your BMI is \(bmi)"
 
 ---
 
-### 📚 Additional Resources
+## 🛫 Next Steps
+Now that you understand the principal data types in Swift, you're ready to continue your journey in the Swift Basics path.
+
+#### What You've Learned
+- ✅ **Fundamental Data Types:** Data types used and supported in Swift
+- ✅ **Type Conversion:** Convert different data types into other ones
+- ✅ **Type Safety:** How Swift prevents you to mix different data types
+
+#### Where to Go Next
+**Continue to** [Swift Basics - Operators](/Swift%20Fundamentals/01-Swift%20Basics/03-Operators.md)
+
+---
+
+## 📚 Resources
 
 - [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)
 - [Apple Swift Documentation](https://developer.apple.com/documentation/swift)
