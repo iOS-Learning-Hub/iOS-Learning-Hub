@@ -48,7 +48,7 @@ This is a comprehensive, self-paced iOS development learning path. Whether you'r
 - 💬 [Discussions](https://github.com/iOS-Learning-Hub/iOS-Learning-Hub/discussions) - Ask questions, share projects
 - 🐛 [Issues](https://github.com/iOS-Learning-Hub/iOS-Learning-Hub/issues) - Report bugs or suggest improvements
 - 📖 [Wiki](https://github.com/YOUR-ORG/iOS-Learning-Hub/wiki) - Additional resources and guides
-- 🗣️ [Discord Server](https:discord.gg/573tWV5BcN) - Join our Discord server to discuss, ask, and help others with iOS development topics.
+- 🗣️ [Discord Server](https://discord.gg/573tWV5BcN) - Join our Discord server to discuss, ask, and help others with iOS development topics.
 
 ### Contribute
 - 🔧 [Contribution Guidelines](./CONTRIBUTING.md)
