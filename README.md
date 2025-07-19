@@ -9,8 +9,8 @@ This is a comprehensive, self-paced iOS development learning path. Whether you'r
 
 ### 📚 Theory & Fundamentals
 - [Swift Fundamentals](/Swift%20Fundamentals/README.md)
-- [SwiftUI Framework](/SwiftUI%20Framework%20Guide/README.md)
-- [UIKit Framework](/UIKit%20Framework%20Guide/README.md)
+- [SwiftUI Framework](/SwiftUI%20Framework/README.md)
+- [UIKit Framework](/UIKit%20Framework/README.md)
 - [Xcode Guide & Shortcuts]() 
 - [iOS Development Concepts]()
 
