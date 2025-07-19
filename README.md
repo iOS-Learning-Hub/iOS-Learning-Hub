@@ -41,30 +41,14 @@ This is a comprehensive, self-paced iOS development learning path. Whether you'r
 3. Explore [SwiftUI Basics](/SwiftUI%20Framework%20Guide/README.md)
 4. Build [Task Manager](https://github.com/YOUR-ORG/project-mini-task-manager-swiftui)
 
-### 💼 For Job Seekers
-Focus on building a portfolio with these projects:
-- [Weather App](https://github.com/YOUR-ORG/project-mini-weather-app-uikit) (UIKit)
-- [Task Manager](https://github.com/YOUR-ORG/project-mini-task-manager-swiftui) (SwiftUI)
-- [Social Feed App](https://github.com/YOUR-ORG/project-full-social-feed-swiftui) (Complete App)
-
-## 🎓 For Educators
-
-### Using GitHub Classroom
-- [Assignment Templates](./docs/educators/assignments/)
-- [Assessment Rubrics](./docs/educators/rubrics/)
-- [Classroom Setup Guide](./docs/educators/classroom-setup.md)
-
-### Resources
-- [How to Use This Hub in Class](./docs/educators/teaching-guide.md)
-- [Project Difficulty Matrix](./docs/educators/difficulty-matrix.md)
-- [Student Progress Tracking](./docs/educators/progress-tracking.md)
 
 ## 🤝 Community
 
 ### Get Help
-- 💬 [Discussions](https://github.com/YOUR-ORG/iOS-Learning-Hub/discussions) - Ask questions, share projects
-- 🐛 [Issues](https://github.com/YOUR-ORG/iOS-Learning-Hub/issues) - Report bugs or suggest improvements
+- 💬 [Discussions](https://github.com/iOS-Learning-Hub/iOS-Learning-Hub/discussions) - Ask questions, share projects
+- 🐛 [Issues](https://github.com/iOS-Learning-Hub/iOS-Learning-Hub/issues) - Report bugs or suggest improvements
 - 📖 [Wiki](https://github.com/YOUR-ORG/iOS-Learning-Hub/wiki) - Additional resources and guides
+- 🗣️ [Discord Server](https:discord.gg/573tWV5BcN) - Join our Discord server to discuss, ask, and help others with iOS development topics.
 
 ### Contribute
 - 🔧 [Contribution Guidelines](./CONTRIBUTING.md)
@@ -75,10 +59,8 @@ Focus on building a portfolio with these projects:
 
 Track your journey:
 - [ ] Completed Swift Fundamentals
-- [ ] Built first micro project
-- [ ] Completed first mini project (UIKit)
-- [ ] Completed first mini project (SwiftUI)
-- [ ] Built first full application
+- [ ] Completed SwiftUI Framework
+- [ ] Completed UIKit Framework
 - [ ] Ready for job applications 🎉
 
 ---

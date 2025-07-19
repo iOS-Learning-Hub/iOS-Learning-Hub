@@ -13,4 +13,4 @@
 
 ### Resources
 
-- [Apple Documentation - UIKit](https://developer.apple.com/documentation/uikit)
+- [UIKit | Apple Developer Documentation](https://developer.apple.com/documentation/uikit)
