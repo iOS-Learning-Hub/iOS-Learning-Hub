@@ -19,8 +19,15 @@ This focused learning path covers the essential foundations of SwiftUI developme
 
 ### Intermediate Level 📊
 
-7. [Advanced State & Data Flow]() - @Observable, @Environment, and app architecture.
-8. [Data Persistence with SwiftData]() - @Model macro, relationships, and modern persistence.
+#### App Structure
+- [Scenes](/SwiftUI%20Framework/Intermediate/Scene.md)
+
+#### Observation and Data Flow
+- [Advanced State & Data Flow]() - @Observable, @Environment, and app architecture.
+
+#### Data Persistence
+- [Data Persistence with SwiftData]() - @Model macro, relationships, and modern persistence.
+  
 
 
 ### Advanced Level 💪🏻

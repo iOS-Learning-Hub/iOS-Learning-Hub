@@ -46,7 +46,7 @@ This is the end of the first multiline comment. */
 
 #### Where to Go Next
 
-**Continue to** [Control Flow - Conditionals](/Swift%20Fundamentals/02-control-flow/01-conditionals.md)
+**Continue to** [Control Flow - Conditionals]()
 
 --- 
 
