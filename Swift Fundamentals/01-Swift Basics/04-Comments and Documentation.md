@@ -45,7 +45,7 @@ You can access documentation for methods and symbols or create your own document
 
 #### What You've Learned
 - ✅ **Comments:** Use them as reminders or notes in your code.
-- ✅ **Documentation:** 
+- ✅ **Documentation:** Learn how to quickly access the documentation from Apple for classes/methods or create your own documentation for your code.
 
 
 #### Where to Go Next
