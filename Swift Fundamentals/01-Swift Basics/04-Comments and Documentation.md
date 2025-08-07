@@ -33,7 +33,11 @@ This is the end of the first multiline comment. */
 
 ## Documentation
 
-// TODO: Define whether this should be for documentation of Swift and how to look it up, how to access documentation in Xcode or how to create documentation for your code.
+You can access documentation for methods and symbols or create your own documentation in Xcode by following these instructions:
+- **Option + Click**: Hold down the Option key and click on the method, class, or symbol you want to view documentation for. This will display a Quick Help popover with relevant information, including a link to open the full documentation in the Developer Documentation window.
+- **Command + Shift + 0**: This shortcut directly opens the Developer Documentation window, allowing you to browse or search for specific documentation.
+- **Quick Help Inspector**: Ensure the Quick Help Inspector (the panel with the question mark icon) is open in the Utilities area (right-hand side panel). When you select a symbol in your code, its documentation will automatically appear in this inspector.
+- **Editor > Add Documentation**: Place your cursor before a method or class definition and press Command + Option + /. Xcode will automatically generate a documentation block (///) for you to fill in. This is for documenting your own code (classes, methods, functions, etc).
 
 ---
 
