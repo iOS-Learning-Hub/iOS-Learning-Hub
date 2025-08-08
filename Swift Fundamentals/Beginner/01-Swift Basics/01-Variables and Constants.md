@@ -201,7 +201,7 @@ Now that you understand the basics of the Swift programming language and some of
 
 #### Where to Go Next
 
-**Continue to** [Swift Basics - Data Types](/Swift%20Fundamentals/01-Swift%20Basics/02-Data%20Types.md)
+**Continue to** [Swift Basics - Data Types](/Swift%20Fundamentals/Beginner/01-Swift%20Basics/02-Data%20Types.md)
 
 --- 
 

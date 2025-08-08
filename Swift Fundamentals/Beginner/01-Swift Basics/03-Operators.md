@@ -219,7 +219,7 @@ Now that you understand more about the operators in Swift, you are one step clos
 
 #### Where to Go Next
 
-**Continue to** [Swift Basics - Comments and Documentation](/Swift%20Fundamentals/01-Swift%20Basics/04-Comments%20and%20Documentation.md)
+**Continue to** [Swift Basics - Comments and Documentation](/Swift%20Fundamentals/Beginner/01-Swift%20Basics/04-Comments%20and%20Documentation.md)
 
 
 ---

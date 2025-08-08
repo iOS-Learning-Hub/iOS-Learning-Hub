@@ -163,7 +163,7 @@ Now that you understand the principal data types in Swift, you're ready to conti
 - ✅ **Type Safety:** How Swift prevents you to mix different data types
 
 #### Where to Go Next
-**Continue to** [Swift Basics - Operators](/Swift%20Fundamentals/01-Swift%20Basics/03-Operators.md)
+**Continue to** [Swift Basics - Operators](/Swift%20Fundamentals/Beginner/01-Swift%20Basics/03-Operators.md)
 
 ---
 
